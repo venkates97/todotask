@@ -63,3 +63,9 @@
 .input-group{
   flex-direction: column;
 }
+.PageTitle{
+  color :green
+}
+p{
+  font-weight: bold;
+}
